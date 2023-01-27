@@ -1,5 +1,6 @@
 # Parse messages from Telegram channels
-Script to download messages and media from telegram channels 
+Script to download messages and media from telegram channels and load it to Microsoft Word document 
+Also this script downloads images 
 
 ### Run script
 
